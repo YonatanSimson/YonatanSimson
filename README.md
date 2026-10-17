@@ -8,7 +8,7 @@ Background: M.Sc. EE (Ben-Gurion University). Worked on SLAM evaluation and ORB-
 
 | Repo | What it is |
 |---|---|
-| [msckf_x](https://github.com/YonatanSimson/msckf_x) | Monocular MSCKF VIO in C++, written from the papers: FEJ, fisheye/omni camera models, static + dynamic init, simulation gates, EuRoC/TUM-VI/KITTI benchmarks |
+| [msckf_x](https://github.com/YonatanSimson/msckf_x) | Monocular MSCKF VIO in C++, written from the papers: FEJ, fisheye/omni camera models, static + dynamic init, simulation gates, EuRoC/TUM-VI/KITTI benchmarks | In progress!
 | [indoor_3d](https://github.com/YonatanSimson/indoor_3d) | Offline indoor reconstruction from ARKit RGB-D: TSDF fusion, COLMAP pose refinement, depth upsampling |
 
 ### Contributions on top of open-source tools
